@@ -1,4 +1,4 @@
-##📚 Online Bookstore SQL Project
+## 📚 Online Bookstore SQL Project
 📝 Project Overview
 
 This project simulates the backend of an online bookstore using SQL. It manages books, customers, and orders through a well-structured relational database. The goal is to demonstrate skills in database design, query optimization, and data analytics, reflecting real-world e-commerce backend operations.
