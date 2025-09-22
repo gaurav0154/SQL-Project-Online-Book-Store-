@@ -1,3 +1,4 @@
+![image alt](https://github.com/gaurav0154/SQL-Project-Online-Book-Store-/blob/main/A%20cozy%20and%20modern%20bo.png?raw=true)
 📚 Online Book Store – SQL Project
 Relational Database Design  Query Optimization  E-Commerce Simulation
 🧩 Project Overview
